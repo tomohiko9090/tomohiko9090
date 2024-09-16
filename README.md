@@ -18,3 +18,5 @@
     <img height="20" src="https://badgen.org/img/zenn/keichan_15/articles?style=plastic" />
   </a>
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
