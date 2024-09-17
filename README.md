@@ -10,7 +10,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tomohiko9090&theme=gruvbox&utcOffset=9)
 
 ## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=tomohiko9090&theme=gruvbox)
 
 <p align="left">
   <a href="https://github.com/Keichan15">
