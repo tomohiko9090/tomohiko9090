@@ -6,10 +6,6 @@ https://github.com/tomohiko9090/IT-knowledge
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomohiko9090&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tomohiko9090&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tomohiko9090&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tomohiko9090&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tomohiko9090&theme=gruvbox&utcOffset=9)
 
 ## Trophy
 
